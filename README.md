@@ -1,5 +1,7 @@
 # FucknCoVReport
 
+***重要提醒（Important Tips）：近期国内（特别是首都）疫情防控形势严峻，请务必切实履行诚信上报健康情况的义务，否则一切后果自行承担！！！***
+
 ***免责声明（Disclaimer）：使用该脚本而可能引起的法律责任和学校追究等责任由使用者个人承担，与开发者无关，请勿滥用。为了您和他人的健康着想，请如实填写信息，在有位置变动和情况变化时手动填写申报！***
 ## FUNCTIONS
 ### - **Submit the personal health information automatically**
