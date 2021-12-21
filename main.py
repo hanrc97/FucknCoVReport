@@ -31,7 +31,7 @@ def send_Message(News='', sub=''):
     # 这里使用SMTP_SSL就是默认使用465端口
     try:
         smtp = SMTP_SSL(mail_info["hostname"])
-        smtp.set_debuglevel(1)
+        smtp.set_debuglevel(0)
 
         smtp.ehlo(mail_info["hostname"])
         smtp.login(mail_info["username"], mail_info["password"])
