@@ -1,4 +1,6 @@
-# FucknCoVReport
+# Fuck-nCoV-Report
+
+***2021/12/31 9:00 AM GMT+8，离新年还有7个小时，愿2022年再无疫情。***
 
 ***2021/12/30 5:30 PM GMT+8, 大半夜睡不着想写点什么，最近也没什么有意思的项目可以写，2021年马上就要over了，2022会更好吗？还是更烂……***
 
@@ -9,6 +11,9 @@
 ### - **Submit the personal health information automatically**
 ### - **Push the notifications via Email or ServerChan**
 ## UPDATES
+### **2021/12/31 - The latest version resolved:** 
+- Modified the config.json (read the USER MANNUL in this page)
+- HAPPY NEW YEAR, 2022!  
 ### **2021/08/18 - The latest version resolved:**
 - Rebuild the code (now you just need modify the config.json).
 ### **2021/07/08 - The latest version resolved:**
@@ -25,7 +30,7 @@
 - Fixed some bugs.
 ## REQUIREMENTS
 pip install requests
-## USER MANNUL (Updated on 2021/07/08)
+## USER MANNUL (Updated on 2021/12/31)
 ### Modify
 >config.json:  
 >>  
@@ -38,19 +43,15 @@ pip install requests
 >>                ```{```  
 >>                        ```"id":"4a4ce9d6725c1d4001725e38fbdb07cd"```  
 >>                ```},```  
->>                ```"c1":"37.2℃及以下",```  
->>                ```"c2":"健康",```  
+>>                ```"c1":"是",```  
 >>                ```"c17":"否",```  
->>                ```"c4":"否",```  
->>                ```"c5":"否",```  
->>                ```"c6":"否",```  
 >>                ```"c9":"否",```  
+>>                ```"c4":"否",```  
 >>                ```"c7":"否",```  
->>                ```"c19":"36.7",```  
->>                ```"c22":"36.7",```  
+>>                ```"c19":"是",```
 >>                ```"type":"YQSJCJ",```  
->>                ```"location_longitude":"116.37951",```  
->>                ```"location_latitude":"39.594672",```  
+>>                ```"location_longitude":"116.31351",```  
+>>                ```"location_latitude":"39.593614",```  
 >>                ```"location_address":"北京市海淀区学院路街道中国地质大学(北京)"```  
 >>        ```},```  
 >>        ```"push_api": "https://sctapi.ftqq.com/[api].send"```  
